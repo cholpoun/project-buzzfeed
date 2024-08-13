@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text {
+    flex: 1;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.image {
+    flex: 0 0 auto;
+}
+
+.image img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 100%;
+}
+
+.grey-box {
+    background-color: grey;
+    padding: 25px;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 200%;
+    text-align: center;
+}
