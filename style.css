@@ -39,7 +39,7 @@ h1 {
     font-family: cursive;
     font-size: 300%;
     text-align: center;
-    color: #CACACA;
+    color: #ffffff;
 }
 
 h2 {
@@ -67,7 +67,7 @@ button {
     width: 300px;
     padding: 14px 40px;
     color: #b6b4b48e;
-    background-color: yellow;
+    background-color: #F4CE14;
     border: solid 3px;
     font-size: 150%;
     border-radius: 15px;
